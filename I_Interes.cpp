@@ -8,9 +8,9 @@
 //
 /* Programa que calcula una cantidad de euros en base a una cantidad depositada
 	más un incremento a lo largo de un año:
-															    	  interes
+								  	         interes
 			cantidad total = cantidad inicial + cantidad inicial * ------------
-																		100
+										   100
 */				
 /***************************************************************************/
 #include<iostream>
